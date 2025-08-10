@@ -1,1 +1,3 @@
-
+<resources>
+    <string name="app_name">Shohs WebView</string>
+</resources>
